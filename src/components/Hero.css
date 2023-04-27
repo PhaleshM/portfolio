@@ -1,0 +1,25 @@
+#role{
+top: 30%;
+left: 20%;
+}
+#role::after{
+    content: ' ';
+    /* position: absolute; */
+    /* padding-left: 30px; */
+    color: #38B2AC;
+    /* width: 526px; */ 
+    margin-left: 20px;
+    animation: textrotate 5s linear infinite;
+    -webkit-animation: textrotate 5s linear infinite;
+}
+@keyframes textrotate{
+0%{
+    content: "I'm a Full-Stack Developer";
+}
+50%{
+    content: "I'm a Pythoneer";
+}
+100%{
+    content: "I'm an AI Enthusiastic";
+}
+}
