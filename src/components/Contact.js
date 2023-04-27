@@ -12,21 +12,30 @@ import {
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
 import ProfileArray from "./ProfileArray";
 
-
+ 
 export default function Contact({ color }) {
   const profile = ProfileArray();
+  const cvurl="https://drive.google.com/file/d/1Vgm2tmlgkaptPrE_KHjpG6C-vefXHGFv/view?usp=sharing";
   const linkedin = () => {
     window.open(`${profile.linkedin}`, "_blank", "noreferrer,noopener");
   };
-  // const CV = () => {
-  //   window.open(`${../assets/Phalesh.pdf}`, "_blank", "noreferrer,noopener");
-  // };
+  
   const github = () => {
     window.open(`${profile.github}`, "_blank", "noreferrer,noopener");
   };
   const email = () => {
     window.open(`mailto:phaleshm@gmail.com`, "_blank", "noreferrer,noopener");
   };
+  const download=(url)=>{
+    const aTag=document.createElement('a');
+    aTag.href=url;
+    aTag.setAttribute('download',"Phalesh_CV");
+    document.body.appendChild(aTag);
+    aTag.click();
+    aTag.remove();
+
+  }
+
   return (
     <>
       <Container maxW={"3xl"} id="contact">
@@ -57,7 +66,7 @@ export default function Contact({ color }) {
               _hover={{
                 bg: `${color}.500`,
               }}
-              onClick={linkedin}
+              onClick={()=>download(cvurl)}
             >Download CV
             </Button>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
