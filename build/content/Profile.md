@@ -2,7 +2,7 @@
 - Portfolio
 
 ## Header
-- Hi, my name is Phalesh Mishra. 
+- Hi, Myself Phalesh
 - I'm a Full-Stack Developer.
 - Short Description Here.
 
@@ -10,10 +10,10 @@
 Write your "About" section here.
 
 ## Contact
-Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+ 
+- LinkedIn: https://www.linkedin.com/in/phalesh-mishra-38ab96213/
+- GitHub: https://github.com/PhaleshM
+- Email: phaleshm@gmail.com
 
 ## Logo
 - PM

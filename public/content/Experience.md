@@ -18,4 +18,4 @@
 - List Items:
   - Problem Statment: The farmers engage in farming and living in villages do not have affordable technology and proper value of their products due to proper reach to the market.
   - Our Solution: Our team has developed an e-commerce marketplace that enables individuals with extra or unused agricultural machinery to register and make it available for rent to others.
-  - Tech Stack: ReactJS, DjangoRestFramework
+  - Tech Stack: ReactJS, DjangoRestFramework, MySQL

@@ -1,23 +1,23 @@
-## Project 1
-Description
-- Tags: Category 1
+## College Portal
+I have developed a replicated version of a college portal's backend, which encompasses essential features such as Student and Faculty Profiles, Daily Notices, and other related functionalities.
+- Tags: Web
 - Badges:
-  - Badge [blue]
+  - Backend [green]
+  - Web [red]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/PhaleshM/bigfish_backend]
 
-## Project 2
-Description
-- Tags: Category 2
+## VIrtual Mouse
+Develop a virtual mouse utilizing hand landmark detection through the Mediapipe platform.
+- Tags: ML/AI
 - Badges:
-  - Badge [blue]
+  - ML [blue]
 - Buttons:
-  - Link [https://example.com]
+  
+## SIH
 
-## Project 3
-Description
-- Tags: Category 3
+- Tags: ML/AI
 - Badges:
-  - Badge [blue]
+  - ML [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/asaxena0179/HackJEC_Segmentation-fault]

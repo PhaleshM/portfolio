@@ -1,29 +1,21 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## SIH 2022
+- *ML Engineer* | Mar'22 - Apr'22
+- ![SIH](../assets/SIH.png)
+- Tags: Hackathons
 - Badges:
-  - Badge [blue]
+  - ML [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Problem Statement: To develop a solution for Gesture enabled commands for operating Laptops/PCs for frequently used operations on a daily basis.
+  - Our Solution: Created a software which recognizes gestures and face with the help of Matplotlib and CNN, the new gesture could be added and gesture controls could be customized.
+  - Tech Stack: Google Colab, Python , TensorFlow, Keras, Face Recognition, Matplotlib
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## IT Day Hackathon 2023
+- *Backend Developer* | Mar'23 - Mar'23
+- ![itday](../assets/itday.png)
+- Tags: Hackathons
 - Badges:
-  - Badge [blue]
+  - Web [red]
 - List Items:
-  - Point 1
-  - Point 2
-
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- List Items:
-  - Point 1
-  - Point 2
+  - Problem Statment: The farmers engage in farming and living in villages do not have affordable technology and proper value of their products due to proper reach to the market.
+  - Our Solution: Our team has developed an e-commerce marketplace that enables individuals with extra or unused agricultural machinery to register and make it available for rent to others.
+  - Tech Stack: ReactJS, DjangoRestFramework, MySQL
