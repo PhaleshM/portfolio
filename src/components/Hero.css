@@ -14,7 +14,7 @@ left: 20%;
 }
 @keyframes textrotate{
 0%{
-    content: "I'm a Full-Stack Developer";
+    content: "I'm a Backend Developer";
 }
 50%{
     content: "I'm a Pythoneer";

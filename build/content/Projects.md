@@ -1,3 +1,14 @@
+## Medicinal Plant Identification And Retrieval-Augmented Generation (RAG) Chatbot
+Designed and implemented a robust backend system for an AI chatbot, integrating RAG processing and a CNN model (InceptionV3) for medicinal plant identification. Developed a seamless API service for predicting plant names and a responsive RAG Chatbot, showcasing adaptability and resourcefulness in overcoming project constraints. Utilized technologies including Django Rest Framework, Hugging Face, Tensorflow, LangChain, and OpenAI to create production-level RAG and AI systems.
+- ![600x200](../assets/SIH2023.png)
+- Tags: Web, ML/AI
+- Badges:
+  - Web [red]
+  - ML [blue]
+- Buttons:
+  - Link [https://github.com/PhaleshM/SIH_backend]
+
+
 ## Blog Website with ReactJS & DjangoRestFramework
 This blogging website utilizes customized microservices (APIs) developed using Django Rest Framework, along with a React framework for the frontend.
 - ![600x200](../assets/Blog.png)

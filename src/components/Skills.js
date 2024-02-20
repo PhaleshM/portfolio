@@ -12,7 +12,7 @@ import {
 import { useState } from "react";
 
 export default function Skils({ color }) {
-  const skills=["ReactJS","Django","DjangoRestFramework","DSA","Python","C++","Javscript","SQL","GIT","MySQL","Google Colab","TensorFlow","Keras","Pandas"]
+  const skills=["ReactJS","Django","DjangoRestFramework","DSA","Python","C++","Javscript","SQL","PostgreSQL","Postman","Redis","GIT","MySQL","Google Colab","Machine Learning","HuggingFace","Langchain","TensorFlow","Pandas"]
   // // const options=[]
   const options=skills.map((val)=>{
   	let arr={};

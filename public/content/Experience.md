@@ -19,3 +19,15 @@
   - Problem Statment: The farmers engage in farming and living in villages do not have affordable technology and proper value of their products due to proper reach to the market.
   - Our Solution: Our team has developed an e-commerce marketplace that enables individuals with extra or unused agricultural machinery to register and make it available for rent to others.
   - Tech Stack: ReactJS, DjangoRestFramework, MySQL
+
+## Sameep(Jabalpur Incubation Center)
+- *Backend Developer Intern*  | Jun'23 - Aug'23
+- ![itday](../assets/JIC.png)
+- Tags: Internships
+- Badges:
+  - Web [red]
+- List Items:
+  - Designed data architecture and developed backend for seamless compatibility on multiple platforms
+  - Integrated backend with frontend using REST API and Django Rest Framework.
+  - Implemented performance optimization techniques with PostgreSQL database.
+  - Tech Stack: Django, Django Rest Framework, PostgreSQL, Redis, Channels, Signals, Firebase Cloud Messaging

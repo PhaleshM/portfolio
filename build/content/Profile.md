@@ -3,7 +3,7 @@
 
 ## Header
 - Hi, Myself Phalesh
-- I'm a Full-Stack Developer.
+- I'm a Backend Developer.
 - Short Description Here.
 
 ## About

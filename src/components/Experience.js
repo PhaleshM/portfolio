@@ -18,6 +18,7 @@ import {
   Button,
   ButtonGroup,
   Center,
+  chakra // Import chakra function
 } from "@chakra-ui/react";
 import { ChevronRightIcon } from "@chakra-ui/icons";
 import { Fade } from "react-reveal";
@@ -82,7 +83,25 @@ export default function Experience({ color }) {
                           <Image src={exp.image} h={50} />
                           <Box px={2} align="left">
                             <Text fontWeight={600}>{exp.company}</Text>
-                            <Text>{exp.position}</Text>
+                            <Text>
+                              {exp.position} &nbsp;
+                              {exp.position === "Backend Developer Intern" ? (
+                                <chakra.a 
+                                  href="https://phalesh.pythonanywhere.com/" 
+                                  color="teal.500"  
+                                  css={{
+                                    fontWeight: "bold",
+                                    fontStyle: "italic"
+                                  }} 
+                                  _hover= {{
+                                    textShadow: "0 0 5px teal, 0 0 10px teal, 0 0 15px teal",
+                                  }}
+                                >
+                                  Link
+                                </chakra.a>
+                              ) : null}
+                            </Text>
+
                           </Box>
                         </HStack>
                         <Text px={2} fontWeight={300}>

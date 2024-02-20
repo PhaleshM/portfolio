@@ -29,9 +29,8 @@ export default function About({ color }) {
             <Divider orientation="horizontal" />
           </Stack>
           <Text color={"gray.600"} fontSize={"xl"} px={4}>
-            As a full-stack developer, I have a passion for creating innovative solutions that deliver value to end-users. 
-            My journey began with Python, which I used to build a strong foundation in programming concepts and web development. 
-            From there, I expanded my skills to include Django, DjangoRestFramework, ReactJS, C++, ML and Data Structures and Algorithms.
+          As a Backend developer, my enthusiasm lies in crafting inventive solutions that add significant value to end-users. My journey commenced with Python, laying a robust foundation in programming concepts and web development. I subsequently broadened my expertise to encompass Django, ReactJS, and C++, as well as data structures and algorithms.<br></br><br>
+          </br>My recent foray into Machine Learning, marked by project creation and successful participation in the <span style={{ color: "teal", fontWeight: "bold", fontStyle: "italic" }}>Amazon ML Summer School 2023</span>, reflects my evolving interests and dedication to continuous learning.
           </Text>
         </Stack>
       </Container>
